@@ -10,4 +10,6 @@ These are my solutions across multiple languages to the problems on https://www.
 | Array Manipulation | [C++](https://github.com/mehtasourabh/HackerRank/blob/main/C++/Array_Manipulation.cpp)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/crush/problem) |
 | 2D Array - DS | [C++](https://github.com/mehtasourabh/HackerRank/blob/main/C++/2D_Array_DS.cpp)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/2d-array/problem) |
 | Bigger Is Greater | [C++](https://github.com/mehtasourabh/HackerRank/blob/main/C++/Bigger_Is_Greater.cpp)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/bigger-is-greater/problem) |
-| Angry Professor | [Go](https://github.com/mehtasourabh/HackerRank/blob/main/Go/Angry_Professor.go)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/angry-professor/problem)
+| Angry Professor | [Go](https://github.com/mehtasourabh/HackerRank/blob/main/Go/Angry_Professor.go)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/angry-professor/problem) |
+| Utopian Tree Professor | [Go](https://github.com/mehtasourabh/HackerRank/blob/main/Go/Utopian_Tree.go)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/utopian-tree/problem) |
+| Viral Advertising | [Go](https://github.com/mehtasourabh/HackerRank/blob/main/Go/Viral_Advertising.go)| [![:cat:](.icon/HackerRank.ico)](https://www.hackerrank.com/challenges/strange-advertising/problem)
